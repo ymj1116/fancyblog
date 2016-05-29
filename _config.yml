@@ -6,7 +6,7 @@ bio: 'fascinated by the quick and hack way'
 external-image: false
 picture: 'assets/images/profile.png' # Let me take care of this later
 
-url: http://initiumlab.com
+url: http://hupilidemo.github.io/my-test-blog/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
