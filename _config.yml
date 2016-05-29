@@ -4,7 +4,7 @@ bio: 'fascinated by the quick and hack way'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg' # Let me take care of this later
+picture: 'assets/images/profile.png' # Let me take care of this later
 
 url: http://initiumlab.com
 # your url: http://USERNAME.github.io
